@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C0NN0RAD0
-- 👀 I’m interested in ... Cyber
+- 👀 I’m interested in ... Cybersecurity & Computer science
 - 🌱 I’m currently learning ... Cyber Security
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on my coursework
 - 📫 How to reach me ... C0NN0RAD0#0326 Discord
 
 <!---
